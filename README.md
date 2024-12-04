@@ -107,7 +107,7 @@ sentiment-analysis-app/
 - Uses TF-IDF for feature extraction and a Random Forest classifier for predictions.
 
 #### **BERT**
-- Fine-tuned `bert-base-uncased` model from Hugging Face's `transformers`.
+- The `bert-base-multilingual-uncased-sentiment` model from Hugging Face's `transformers`.
 - Tokenizer processes the review text, and the model predicts sentiment.
 
 ---
