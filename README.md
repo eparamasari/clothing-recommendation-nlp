@@ -6,7 +6,7 @@ This project is a web-based application that performs sentiment analysis on clot
 
 The app provides side-by-side predictions and confidence scores for comparison.
 
-<video src='https://github.com/eparamasari/clothing-recommendation-nlp/blob/main/video/clothing-review-analysis.mp4' width=180/></video>
+https://github.com/user-attachments/assets/a42bf14b-7c69-4eb8-bbfc-fb8c6c641142
 
 ---
 
